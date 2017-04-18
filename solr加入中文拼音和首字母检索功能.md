@@ -17,9 +17,9 @@ https://github.com/Jonathan-Wei/pinyinTokenFilter.git
 					this.terms.addAll(GetPyString(chinese));
 ```
 
-修改代码后 生成jar包pinyinTokenFilter-1.0.0-RELEASE.jar
+修改代码后 生成jar包[pinyinTokenFilter-1.0.0-RELEASE.jar]( https://github.com/liangpz521/doc/tree/master/jar/pinyinTokenFilter-1.0.0-RELEASE.jar)
 
-* 下载 pinyin4j-2.5.0.jar
+* 下载[pinyin4j-2.5.0.jar](https://github.com/liangpz521/doc/tree/master/jar/pinyin4j-2.5.0.jar)
 * 两个jar包下载好后放到  solr/webapps/solr/WEB-INF/lib下
 
 
