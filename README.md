@@ -46,7 +46,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [xiaoego.com](https://github.com/daixianceng/xiaoego.com)：xiaoego.com源码，校园O2O购物平台。
 - [YeeCMS](https://github.com/yeesoft/yii2-yee-cms)：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 [composer.json](https://github.com/yeesoft/yii2-yee-cms/blob/master/composer.json) 文件你就知道了。
 - [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
-- [yii2-rest-demo](https://github.com/iiYii/yii2-rest-deom):基于yii2写的restful API方式
+- [yii2-rest-demo](https://github.com/iiYii/yii2-rest-demo):基于yii2写的restful API方式
 
 ## Module 模块
 
@@ -149,6 +149,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 
 
-## Donate 赞助
+## php源码资源
 
+* [php快速词库工具,从文本中找出存在的词库](https://github.com/nowgoo/dict)
+* [Yii2 自定义 RESTful API 返回格式](https://n3yang.com/archives/2016/08/19/customizing-yii2-restful-api-return/)      [Yii2配置RESTful API方式二](http://www.cnblogs.com/liadmin/p/6357874.html)    [Yii2配置RESTful API返回数据 方式三](http://www.yiichina.com/tutorial/1101)
 
